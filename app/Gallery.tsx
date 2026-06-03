@@ -12,7 +12,7 @@ const B = "/sprites/exterior/buildings";
 const DIALOGUES: Record<string, string> = {
   [`${B}/normal/2.png`]: "Hi, I'm Boba! Let me give you a tour of this little sky island!",
   [`${B}/normal/4.png`]: "No one is home. They're taking the hobbits to Isengard!",
-  [`${B}/normal/1.png`]: "Click the museum to teleport.",
+  [`${B}/normal/1.png`]: "Tap the art gallery to teleport!",
   [`${B}/normal/3.png`]: "Nope. I got rejected from Hogwarts.",
   [`${B}/normal/5.png`]: "This is the bathhouse from <em>Spirited Away</em>, the movie that inspired me to draw.",
   [`${B}/normal/7.png`]: "Hungry already? Click the building to get some dumplings!",
