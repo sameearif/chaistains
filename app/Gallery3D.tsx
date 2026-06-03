@@ -948,7 +948,7 @@ export default function Gallery3D({ onExit }: { onExit: () => void }) {
           : "WASD / arrows to move · drag to look around · tap art · tap the door to leave"}
       </div>
 
-      {isTouch && (
+      {isTouch && !art && (
         <div
           className="joystick"
           ref={joyRef}
