@@ -1,0 +1,1886 @@
+{
+  "width": 28,
+  "height": 18,
+  "cells": [
+    [
+      {
+        "deco": "/sprites/exterior/trees/3.png",
+        "ground": "/sprites/exterior/grass/1.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/8.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/4.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/rocks/9.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/8.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/4.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/8.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/8.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/3.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/rocks/6.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/6.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/5.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/rocks/9.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/4.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/3.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/5.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/8.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/6.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/rocks/9.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/5.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/8.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/7.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/7.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/7.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/13.png",
+        "deco": "/sprites/exterior/trees/7.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/13.png",
+        "deco": "/sprites/exterior/trees/7.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/13.png",
+        "deco": "/sprites/exterior/trees/7.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/rocks/9.png"
+      }
+    ],
+    [
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/8.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/rocks/9.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/8.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/4.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/2.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/8.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/2.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/rocks/7.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/3.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/4.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/4.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/8.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/8.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/rocks/7.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/3.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/3.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/8.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/1.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/5.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/rocks/9.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/1.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/7.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/7.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/rocks/9.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/13.png",
+        "deco": "/sprites/exterior/trees/7.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/13.png",
+        "deco": "/sprites/exterior/trees/7.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/13.png",
+        "deco": "/sprites/exterior/trees/7.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/7.png"
+      }
+    ],
+    [
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/2.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/8.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/buildings/pakistan/2.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png"
+      },
+      {
+        "ground": "/sprites/exterior/path/2.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/8.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/7.png",
+        "deco": "/sprites/exterior/trees/5.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/13.png",
+        "deco": "/sprites/exterior/rocks/6.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/4.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/7.png",
+        "deco": "/sprites/exterior/trees/4.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/8.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/4.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/6.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/rocks/9.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/7.png",
+        "deco": "/sprites/exterior/trees/6.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/rocks/9.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/8.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/9.png",
+        "deco": "/sprites/exterior/trees/6.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/8.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/7.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/buildings/normal/4.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/9.png"
+      },
+      {
+        "ground": "/sprites/exterior/path/25.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/buildings/normal/2.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/13.png",
+        "deco": "/sprites/exterior/trees/7.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/9.png",
+        "deco": "/sprites/exterior/trees/7.png"
+      }
+    ],
+    [
+      {
+        "ground": "/sprites/exterior/grass/7.png",
+        "deco": "/sprites/exterior/trees/5.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/7.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/7.png"
+      },
+      {
+        "ground": "/sprites/exterior/path/25.png"
+      },
+      {
+        "ground": "/sprites/exterior/path/17.png"
+      },
+      {
+        "ground": "/sprites/exterior/path/37.png"
+      },
+      {
+        "ground": "/sprites/exterior/path/37.png",
+        "deco": "/sprites/exterior/rocks/4.png"
+      },
+      {
+        "ground": "/sprites/exterior/path/37.png"
+      },
+      {
+        "ground": "/sprites/exterior/path/2.png"
+      },
+      {
+        "ground": "/sprites/exterior/path/45.png"
+      },
+      {
+        "ground": "/sprites/exterior/path/37.png"
+      },
+      {
+        "ground": "/sprites/exterior/path/37.png"
+      },
+      {
+        "ground": "/sprites/exterior/path/37.png"
+      },
+      {
+        "ground": "/sprites/exterior/path/37.png"
+      },
+      {
+        "ground": "/sprites/exterior/path/37.png"
+      },
+      {
+        "ground": "/sprites/exterior/path/37.png",
+        "deco": "/sprites/exterior/rocks/4.png"
+      },
+      {
+        "ground": "/sprites/exterior/path/37.png"
+      },
+      {
+        "ground": "/sprites/exterior/path/37.png"
+      },
+      {
+        "ground": "/sprites/exterior/path/37.png"
+      },
+      {
+        "ground": "/sprites/exterior/path/37.png"
+      },
+      {
+        "ground": "/sprites/exterior/path/37.png"
+      },
+      {
+        "ground": "/sprites/exterior/path/37.png"
+      },
+      {
+        "ground": "/sprites/exterior/path/37.png"
+      },
+      {
+        "ground": "/sprites/exterior/path/37.png"
+      },
+      {
+        "ground": "/sprites/exterior/path/29.png"
+      },
+      {
+        "ground": "/sprites/exterior/path/29.png"
+      },
+      {
+        "ground": "/sprites/exterior/path/37.png",
+        "deco": "/sprites/exterior/rocks/4.png"
+      },
+      {
+        "ground": "/sprites/exterior/path/37.png",
+        "deco": "/sprites/exterior/rocks/4.png"
+      }
+    ],
+    [
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/7.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/7.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/8.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png"
+      },
+      {
+        "ground": "/sprites/exterior/path/41.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/7.png",
+        "deco": "/sprites/exterior/trees/7.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/7.png",
+        "deco": "/sprites/exterior/rocks/6.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/7.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/rocks/8.png"
+      },
+      {
+        "ground": "/sprites/exterior/path/3.png",
+        "deco": "/sprites/exterior/rocks/4.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/3.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/7.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/buildings/pakistan/3.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/2.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/2.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/4.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/3.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/7.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/7.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/3.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/1.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/3.png"
+      },
+      {
+        "ground": "/sprites/exterior/path/5.png"
+      },
+      {
+        "ground": "/sprites/exterior/path/41.png",
+        "deco": "/sprites/exterior/rocks/8.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/8.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/4.png"
+      }
+    ],
+    [
+      {
+        "ground": "/sprites/exterior/grass/7.png",
+        "deco": "/sprites/exterior/trees/8.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/5.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/7.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/7.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/rocks/6.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/8.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/rocks/8.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/rocks/8.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/8.png"
+      },
+      {
+        "ground": "/sprites/exterior/path/14.png",
+        "deco": "/sprites/exterior/rocks/1.png"
+      },
+      {
+        "ground": "/sprites/exterior/path/4.png",
+        "deco": "/sprites/exterior/rocks/1.png"
+      },
+      {
+        "ground": "/sprites/exterior/path/37.png",
+        "deco": "/sprites/exterior/rocks/1.png"
+      },
+      {
+        "ground": "/sprites/exterior/path/4.png"
+      },
+      {
+        "ground": "/sprites/exterior/path/35.png"
+      },
+      {
+        "ground": "/sprites/exterior/path/37.png"
+      },
+      {
+        "ground": "/sprites/exterior/path/4.png"
+      },
+      {
+        "ground": "/sprites/exterior/path/4.png"
+      },
+      {
+        "ground": "/sprites/exterior/path/37.png"
+      },
+      {
+        "ground": "/sprites/exterior/path/4.png"
+      },
+      {
+        "ground": "/sprites/exterior/path/4.png"
+      },
+      {
+        "ground": "/sprites/exterior/path/4.png"
+      },
+      {
+        "ground": "/sprites/exterior/path/4.png"
+      },
+      {
+        "ground": "/sprites/exterior/path/37.png"
+      },
+      {
+        "ground": "/sprites/exterior/path/37.png"
+      },
+      {
+        "ground": "/sprites/exterior/path/17.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/4.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/8.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/8.png"
+      }
+    ],
+    [
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/6.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/7.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/13.png",
+        "deco": "/sprites/exterior/trees/6.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/7.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/rocks/7.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/rocks/8.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/7.png"
+      },
+      {
+        "ground": "/sprites/exterior/path/3.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/2.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/2.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/2.png"
+      },
+      {
+        "deco": "/sprites/exterior/trees/1.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/7.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/1.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/7.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/2.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/2.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/7.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/3.png"
+      },
+      {
+        "ground": "/sprites/exterior/path/23.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/6.png",
+        "deco": "/sprites/exterior/trees/8.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/rocks/6.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/1.png"
+      }
+    ],
+    [
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/6.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/8.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/7.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/buildings/pakistan/1.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/8.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/8.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/buildings/normal/5.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/8.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/8.png"
+      },
+      {
+        "ground": "/sprites/exterior/path/3.png",
+        "deco": "/sprites/exterior/rocks/1.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/7.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/buildings/pakistan/5.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/1.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/buildings/michigan/1.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/1.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/1.png"
+      },
+      {
+        "ground": "/sprites/exterior/path/22.png",
+        "deco": "/sprites/exterior/rocks/4.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/6.png",
+        "deco": "/sprites/exterior/trees/5.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/5.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/rocks/7.png"
+      }
+    ],
+    [
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/7.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/5.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/7.png"
+      },
+      {
+        "ground": "/sprites/exterior/path/3.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/7.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/8.png"
+      },
+      {
+        "ground": "/sprites/exterior/path/23.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/8.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/7.png"
+      },
+      {
+        "ground": "/sprites/exterior/path/3.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/2.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/2.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/18.png"
+      },
+      {
+        "ground": "/sprites/exterior/path/3.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/18.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/4.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/4.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/4.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/18.png"
+      },
+      {
+        "ground": "/sprites/exterior/path/3.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/18.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/18.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/7.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/3.png"
+      },
+      {
+        "ground": "/sprites/exterior/path/23.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/9.png",
+        "deco": "/sprites/exterior/trees/8.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/8.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/1.png"
+      }
+    ],
+    [
+      {
+        "ground": "/sprites/exterior/path/37.png",
+        "deco": "/sprites/exterior/rocks/4.png"
+      },
+      {
+        "ground": "/sprites/exterior/path/37.png",
+        "deco": "/sprites/exterior/rocks/4.png"
+      },
+      {
+        "ground": "/sprites/exterior/path/37.png",
+        "deco": "/sprites/exterior/rocks/4.png"
+      },
+      {
+        "ground": "/sprites/exterior/path/29.png"
+      },
+      {
+        "ground": "/sprites/exterior/path/2.png"
+      },
+      {
+        "ground": "/sprites/exterior/path/37.png"
+      },
+      {
+        "ground": "/sprites/exterior/path/44.png"
+      },
+      {
+        "ground": "/sprites/exterior/path/2.png"
+      },
+      {
+        "ground": "/sprites/exterior/path/2.png",
+        "deco": "/sprites/exterior/rocks/2.png"
+      },
+      {
+        "ground": "/sprites/exterior/path/29.png",
+        "deco": "/sprites/exterior/rocks/1.png"
+      },
+      {
+        "ground": "/sprites/exterior/path/2.png"
+      },
+      {
+        "ground": "/sprites/exterior/path/2.png",
+        "deco": "/sprites/exterior/rocks/2.png"
+      },
+      {
+        "ground": "/sprites/exterior/path/37.png"
+      },
+      {
+        "ground": "/sprites/exterior/path/33.png"
+      },
+      {
+        "ground": "/sprites/exterior/path/37.png"
+      },
+      {
+        "ground": "/sprites/exterior/path/2.png"
+      },
+      {
+        "ground": "/sprites/exterior/path/2.png"
+      },
+      {
+        "ground": "/sprites/exterior/path/2.png"
+      },
+      {
+        "ground": "/sprites/exterior/path/37.png"
+      },
+      {
+        "ground": "/sprites/exterior/path/29.png",
+        "deco": "/sprites/exterior/rocks/4.png"
+      },
+      {
+        "ground": "/sprites/exterior/path/2.png"
+      },
+      {
+        "ground": "/sprites/exterior/path/2.png"
+      },
+      {
+        "ground": "/sprites/exterior/path/37.png",
+        "deco": "/sprites/exterior/rocks/4.png"
+      },
+      {
+        "ground": "/sprites/exterior/path/2.png"
+      },
+      {
+        "ground": "/sprites/exterior/path/35.png"
+      },
+      {
+        "ground": "/sprites/exterior/path/37.png"
+      },
+      {
+        "ground": "/sprites/exterior/path/37.png"
+      },
+      {
+        "ground": "/sprites/exterior/path/37.png"
+      }
+    ],
+    [
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/8.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/3.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/7.png",
+        "deco": "/sprites/exterior/trees/4.png"
+      },
+      {
+        "ground": "/sprites/exterior/path/41.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/8.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/3.png"
+      },
+      {
+        "ground": "/sprites/exterior/path/41.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/8.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/3.png"
+      },
+      {
+        "ground": "/sprites/exterior/path/23.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/rocks/9.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/8.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/8.png"
+      },
+      {
+        "ground": "/sprites/exterior/path/41.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/rocks/9.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/2.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/2.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/2.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/rocks/9.png"
+      },
+      {
+        "ground": "/sprites/exterior/path/41.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/rocks/9.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/2.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/2.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/rocks/9.png"
+      },
+      {
+        "ground": "/sprites/exterior/path/22.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/6.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/6.png",
+        "deco": "/sprites/exterior/trees/6.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/6.png"
+      }
+    ],
+    [
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/4.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/8.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/8.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/4.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/8.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/4.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/8.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/8.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/4.png"
+      },
+      {
+        "ground": "/sprites/exterior/path/23.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/8.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/8.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/8.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/2.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/2.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/rocks/6.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/2.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/2.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/2.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/2.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/2.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/2.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/2.png"
+      },
+      {
+        "ground": "/sprites/exterior/path/22.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/6.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/6.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/6.png"
+      }
+    ],
+    [
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/3.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/18.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/3.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/3.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/3.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/4.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/7.png",
+        "deco": "/sprites/exterior/trees/3.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/3.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/8.png"
+      },
+      {
+        "ground": "/sprites/exterior/path/23.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/8.png"
+      },
+      {
+        "ground": "/sprites/exterior/path/38.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/buildings/michigan/2.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/2.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/buildings/michigan/3.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/2.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/2.png"
+      },
+      {
+        "ground": "/sprites/exterior/path/23.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/6.png",
+        "deco": "/sprites/exterior/trees/6.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/6.png",
+        "deco": "/sprites/exterior/trees/6.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/6.png",
+        "deco": "/sprites/exterior/trees/6.png"
+      }
+    ],
+    [
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/8.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/4.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/8.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/4.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/8.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/3.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/8.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/4.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/3.png"
+      },
+      {
+        "ground": "/sprites/exterior/path/28.png"
+      },
+      {
+        "ground": "/sprites/exterior/path/38.png"
+      },
+      {
+        "ground": "/sprites/exterior/path/38.png"
+      },
+      {
+        "ground": "/sprites/exterior/path/34.png"
+      },
+      {
+        "ground": "/sprites/exterior/path/29.png"
+      },
+      {
+        "ground": "/sprites/exterior/path/34.png"
+      },
+      {
+        "ground": "/sprites/exterior/path/38.png"
+      },
+      {
+        "ground": "/sprites/exterior/path/38.png"
+      },
+      {
+        "ground": "/sprites/exterior/path/38.png"
+      },
+      {
+        "ground": "/sprites/exterior/path/34.png"
+      },
+      {
+        "ground": "/sprites/exterior/path/29.png"
+      },
+      {
+        "ground": "/sprites/exterior/path/34.png"
+      },
+      {
+        "ground": "/sprites/exterior/path/38.png"
+      },
+      {
+        "ground": "/sprites/exterior/path/38.png"
+      },
+      {
+        "ground": "/sprites/exterior/path/38.png",
+        "deco": "/sprites/exterior/rocks/4.png"
+      },
+      {
+        "ground": "/sprites/exterior/path/30.png"
+      },
+      {
+        "ground": "/sprites/exterior/path/38.png",
+        "deco": "/sprites/exterior/rocks/4.png"
+      },
+      {
+        "ground": "/sprites/exterior/path/38.png"
+      },
+      {
+        "ground": "/sprites/exterior/path/38.png"
+      }
+    ],
+    [
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/3.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/8.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/3.png"
+      },
+      {},
+      {
+        "ground": "/sprites/exterior/grass/1.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/8.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/8.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/4.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/7.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/7.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/4.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/4.png"
+      },
+      {
+        "ground": "/sprites/exterior/path/41.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/4.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/7.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/4.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/4.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/4.png"
+      },
+      {
+        "ground": "/sprites/exterior/path/41.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/7.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/4.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/4.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/4.png"
+      },
+      {
+        "ground": "/sprites/exterior/path/3.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/6.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/6.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/6.png"
+      }
+    ],
+    [
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/4.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/4.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png"
+      },
+      {
+        "deco": "/sprites/exterior/buildings/normal/1.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/8.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/buildings/normal/7.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/8.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/4.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/7.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/4.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/7.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/4.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/4.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/4.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/7.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/7.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/4.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/4.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/6.png",
+        "deco": "/sprites/exterior/trees/7.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/4.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/6.png",
+        "deco": "/sprites/exterior/trees/7.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/7.png"
+      },
+      {
+        "ground": "/sprites/exterior/path/23.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/6.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/buildings/normal/3.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/6.png"
+      }
+    ],
+    [
+      {
+        "ground": "/sprites/exterior/path/38.png"
+      },
+      {
+        "ground": "/sprites/exterior/path/37.png"
+      },
+      {
+        "ground": "/sprites/exterior/path/38.png"
+      },
+      {
+        "ground": "/sprites/exterior/path/35.png"
+      },
+      {
+        "ground": "/sprites/exterior/path/37.png"
+      },
+      {
+        "ground": "/sprites/exterior/path/38.png"
+      },
+      {
+        "ground": "/sprites/exterior/path/35.png"
+      },
+      {
+        "ground": "/sprites/exterior/path/37.png"
+      },
+      {
+        "ground": "/sprites/exterior/path/37.png"
+      },
+      {
+        "ground": "/sprites/exterior/path/38.png"
+      },
+      {
+        "ground": "/sprites/exterior/path/38.png"
+      },
+      {
+        "ground": "/sprites/exterior/path/38.png"
+      },
+      {
+        "ground": "/sprites/exterior/path/37.png"
+      },
+      {
+        "ground": "/sprites/exterior/path/38.png"
+      },
+      {
+        "ground": "/sprites/exterior/path/38.png"
+      },
+      {
+        "ground": "/sprites/exterior/path/38.png"
+      },
+      {
+        "ground": "/sprites/exterior/path/38.png"
+      },
+      {
+        "ground": "/sprites/exterior/path/37.png"
+      },
+      {
+        "ground": "/sprites/exterior/path/38.png"
+      },
+      {
+        "ground": "/sprites/exterior/path/38.png"
+      },
+      {
+        "ground": "/sprites/exterior/path/38.png"
+      },
+      {
+        "ground": "/sprites/exterior/path/37.png"
+      },
+      {
+        "ground": "/sprites/exterior/path/38.png"
+      },
+      {
+        "ground": "/sprites/exterior/path/38.png"
+      },
+      {
+        "ground": "/sprites/exterior/path/29.png"
+      },
+      {
+        "ground": "/sprites/exterior/path/38.png"
+      },
+      {
+        "ground": "/sprites/exterior/path/38.png"
+      },
+      {
+        "ground": "/sprites/exterior/path/38.png"
+      }
+    ],
+    [
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/1.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/1.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/6.png",
+        "deco": "/sprites/exterior/trees/4.png"
+      },
+      {
+        "ground": "/sprites/exterior/path/41.png",
+        "deco": "/sprites/exterior/trees/1.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/6.png",
+        "deco": "/sprites/exterior/trees/4.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/1.png"
+      },
+      {
+        "ground": "/sprites/exterior/path/41.png",
+        "deco": "/sprites/exterior/trees/4.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/1.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/6.png",
+        "deco": "/sprites/exterior/trees/4.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/1.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/4.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/1.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/1.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/6.png",
+        "deco": "/sprites/exterior/trees/4.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/1.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/1.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/6.png",
+        "deco": "/sprites/exterior/trees/4.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/1.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/4.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/6.png",
+        "deco": "/sprites/exterior/trees/1.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/1.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/4.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/1.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/1.png"
+      },
+      {
+        "ground": "/sprites/exterior/path/41.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/6.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/6.png"
+      },
+      {
+        "ground": "/sprites/exterior/grass/1.png",
+        "deco": "/sprites/exterior/trees/6.png"
+      }
+    ]
+  ]
+}

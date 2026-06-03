@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">
+  <rect width="100" height="100" rx="22" fill="#f4efe5"/>
+  <!-- steam -->
+  <g fill="none" stroke="#b98a4e" stroke-width="3" stroke-linecap="round">
+    <path d="M40 34 C34 26 46 21 40 12"/>
+    <path d="M52 34 C46 26 58 20 52 11"/>
+    <path d="M64 34 C58 26 70 21 64 12"/>
+  </g>
+  <!-- tea fill clipped to glass -->
+  <clipPath id="g">
+    <path d="M33 44 L67 44 L62 90 Q50 96 38 90 Z"/>
+  </clipPath>
+  <g clip-path="url(#g)">
+    <rect x="30" y="56" width="40" height="44" fill="#c2873b"/>
+    <ellipse cx="44" cy="64" rx="8" ry="3" fill="rgba(255,255,255,0.5)"/>
+  </g>
+  <!-- glass + rim + saucer -->
+  <g fill="none" stroke="#38322a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M33 44 L67 44 L62 90 Q50 96 38 90 Z"/>
+    <ellipse cx="50" cy="44" rx="17" ry="4.5"/>
+    <path d="M30 96 Q50 104 70 96"/>
+  </g>
+</svg>

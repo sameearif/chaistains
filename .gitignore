@@ -24,6 +24,9 @@
 .DS_Store
 *.pem
 
+# local Claude agent/session data
+.claude/
+
 # debug
 npm-debug.log*
 yarn-debug.log*

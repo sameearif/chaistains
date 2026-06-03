@@ -1,0 +1,10 @@
+[
+  { "file": "1.png", "title": "Jars on a Fence", "medium": "Photograph", "year": 2023, "desc": "Glass jars drying in the afternoon sun — a quiet corner of someone's garden." },
+  { "file": "2.png", "title": "Untitled No. 2", "medium": "Photograph", "year": 2022, "desc": "Replace me — drop your own artwork into /public/art and edit art.json." },
+  { "file": "3.png", "title": "Untitled No. 3", "medium": "Photograph", "year": 2024, "desc": "Replace me — drop your own artwork into /public/art and edit art.json." },
+  { "file": "4.png", "title": "Untitled No. 4", "medium": "Photograph", "year": 2021, "desc": "Replace me — drop your own artwork into /public/art and edit art.json." },
+  { "file": "5.png", "title": "Untitled No. 5", "medium": "Photograph", "year": 2025, "desc": "Replace me — drop your own artwork into /public/art and edit art.json." },
+  { "file": "6.png", "title": "Untitled No. 6", "medium": "Photograph", "year": 2020, "desc": "Replace me — drop your own artwork into /public/art and edit art.json." },
+  { "file": "7.png", "title": "Untitled No. 7", "medium": "Photograph", "year": 2023, "desc": "Replace me — drop your own artwork into /public/art and edit art.json." },
+  { "file": "8.png", "title": "Untitled No. 8", "medium": "Photograph", "year": 2024, "desc": "Replace me — drop your own artwork into /public/art and edit art.json." }
+]
